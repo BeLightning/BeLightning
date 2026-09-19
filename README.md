@@ -18,7 +18,7 @@ I work mainly with **Python, PHP, JavaScript, and C++**, with experience in Word
 Python · PHP · JavaScript · C++ · SQL · HTML · CSS
 
 **Backend**  
-Flask · Django · REST APIs · SQLAlchemy
+Flask · REST APIs · SQLAlchemy
 
 **Web**  
 WordPress · WooCommerce · Custom Plugins · Web Components
@@ -32,10 +32,11 @@ Linux · Git · GitHub · Docker
 **Game Development**  
 Godot · GDScript · 2D Game Systems
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-I'm currently expanding my knowledge of **2D game development with Godot**, including gameplay systems, architecture, level design, and development workflows.
-
+- 🐍 **Django** — expanding my Python backend development skills
+- 🎮 **2D Game Development with Godot** — gameplay systems, architecture, level design, and development workflows
+  
 ## 🔒 Private Development
 
 A significant part of my work is maintained in private repositories.
